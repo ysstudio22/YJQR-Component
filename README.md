@@ -7,12 +7,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [What I learned](#what-i-learned)
+- [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
    
@@ -26,9 +23,6 @@ This is the first challenge in the Frontend Mentor Learning Path. The challenge 
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## My process
-   
-1. First I took a look at the style guide to get the font, the font size and the colors for the challenge.
 
 ### What I learned
 
@@ -42,10 +36,7 @@ I had a couple of takeaways from this challenge since this was the first Fronten
 ### Continued development
 Looking ahead I'd like to focus on relearning the responsive design.  Start a new project with the mobile view first and then add a desktop-view with the media queries.
 
-### Useful resources
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@ysstudio22](https://www.frontendmentor.io/profile/ysstudio22)
 - X - [@YoshiCode03](https://www.twitter.com/YoshiCode03)
