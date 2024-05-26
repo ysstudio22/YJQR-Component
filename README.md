@@ -21,7 +21,7 @@ This is the first challenge in the Frontend Mentor Learning Path. The challenge 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [My First Frontend Mentor Challenge](https://ysstudio22.github.io/YJQR-Component/)
 
 
 ### What I learned
